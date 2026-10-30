@@ -168,3 +168,7 @@ MIT License - see LICENSE file for details.
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - [pdf2image](https://github.com/Belval/pdf2image)
 - [Rich](https://github.com/Textualize/rich)
+
+---
+
+Part of the open-source tools collection by [Sameer Bajaj](https://sameerbajaj.com). Learn more on the [project page](https://sameerbajaj.com/tools/pdf-ocr/).
